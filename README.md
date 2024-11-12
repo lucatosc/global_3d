@@ -1,4 +1,4 @@
-# Globe - [Demo](https://nenadv91.github.io/Threejs-globe/)
+
 Particles globe with countries in threejs
 
 - Created with Three.js
