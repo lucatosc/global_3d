@@ -5,6 +5,6 @@ Particles globe with countries in threejs
 
 ### Preview
 ---
-![Preview](https://github.com/lucatosc/global_3d/previews/preview.png?raw=true "Home preview 1")
+![Preview](https://github.com/lucatosc/global_3d/main/previews/preview.png?raw=true "Home preview 1")
 
 
